@@ -4,7 +4,7 @@
 #include <iostream>
 #include <cmath>
 #include "../../../3rdparty/unapproved/unapproved.h"
-#include "../../../modules/task_1/dirichle/dirichle.h"
+#include "../../../modules/ver_1/dirichle/dirichle.h"
 
 void PrintMatrix(double* matrix, int size) {
   for (int i = 0; i < size; i++) {

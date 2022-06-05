@@ -2,7 +2,7 @@
 
 #include <gtest/gtest.h>
 #include <tbb/tbb.h>
-#include "../../../modules/task_1/dirichle/dirichle.h"
+#include "../../../modules/ver_1/dirichle/dirichle.h"
 
 TEST(Sequential, Test_Sequential_Alg_10x10) {
   int size = 10;
