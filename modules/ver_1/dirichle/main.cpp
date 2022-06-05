@@ -70,7 +70,7 @@ TEST(STD, Test_STD_Alg_100x100) {
   delete[] matrix;
 }
 
-// /*
+/*
 TEST(Time_test_1500_1500, Test_SEQ_TBB_STD_Alg) {
   int size = 1000;
   double eps = 0.01;
@@ -108,4 +108,4 @@ TEST(Time_test_1500_1500, Test_SEQ_TBB_STD_Alg) {
 
   SUCCEED();
 }
-//*/
+*/
